@@ -1,6 +1,5 @@
 # European Top 5 Leagues Dashboard Analysis (2014-2025)
 
-![Dashboard Example](./dashboard_example.png)
 
 ## Overview
 
@@ -18,7 +17,7 @@ This project provides a comprehensive, interactive dashboard for analyzing the l
 
 ## Example Output
 
-![Dashboard Sample](./dashboard_2024_2025.png)
+![Dashboard Sample](./dashboard_2024-2025.png)
 
 *Figure: Example dashboard for Ligue 1, season 2024-2025.*
 
