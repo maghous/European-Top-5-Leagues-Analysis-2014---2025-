@@ -105,7 +105,7 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 
 ## Acknowledgements
 
-- Data sources: [FBref](https://fbref.com/), [Understat](https://understat.com/), [Transfermarkt](https://transfermarkt.com/) (or your data provider)
+- Data sources:[Understat](https://understat.com/)
 - Visualization inspiration: [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/)
 
 ---
