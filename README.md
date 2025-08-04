@@ -25,7 +25,7 @@ This project provides a comprehensive, interactive dashboard for analyzing the l
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/maghous/top5-leagues-dashboard.git
+   git clone https://github.com/maghous/European-Top-5-Leagues-Analysis-2014---2025-.git
    cd top5-leagues-dashboard
    ```
 
